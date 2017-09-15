@@ -1,6 +1,6 @@
 # Justin Chang
 ------
-No.6, Ln. 33, Xianzheng 18th St., Zhubei City, Hsinchu County 302, Taiwan (R.O.C.)  |  +886-975-500969 | C24971720@gmail.com | [http://JustinChang126.github.io](http://JustinChang126.github.io) 
+No.6, Ln. 33, Xianzheng 18th St., Zhubei City, Hsinchu County 302, Taiwan (R.O.C.)  |  +886-975-500969 | justin126@livemail.tw | [http://JustinChang126.github.io](http://JustinChang126.github.io) 
 
 ------
 
@@ -63,6 +63,8 @@ Institute of Electro-Optical Engineering | GP: 4.09/4.3 | Sep. 2012 - Nov. 2014
 ------
 ### REFERENCES
 * tseng-jing Chang | chts.ching@msa.hinet.net | Chunghwa Telecom, engineer
+* nathan Chen | Nathan.Chen@quantatw.com | Quanta Computer, specialist 1
+
 
 ------
 ### PORTFOLIO
@@ -70,9 +72,11 @@ Institute of Electro-Optical Engineering | GP: 4.09/4.3 | Sep. 2012 - Nov. 2014
 * Quanta smart glass 3rd generation.
 * [Lambda Vue SDK2.0 on Windows.](https://lambda.qrilab.com/product/sdk/ )
 * [Lambda Vue Application on Windows.](https://lambda.qrilab.com/product/application/)
-* Pi360 web [image viewer](https://gallery.pi360.com/m/0) / [video player](https://gallery.pi360.com/m/101)
+* Pi360 web [image viewer / video player](https://embed.pi360.com/embed-loader)
 * Embeded iframe image viewer/ video player in [gallery](https://www.pi360.com/gallery360)
 * Other practice/tool projects can refer to [GitHub](https://github.com/Justin790126 )
+
+
 
 
 
