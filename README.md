@@ -1,6 +1,6 @@
 # Justin Chang
 ------
-No.6, Ln. 33, Xianzheng 18th St., Zhubei City, Hsinchu County 302, Taiwan (R.O.C.)  |  +886-975-500969 | justin126@livemail.tw | [http://JustinChang126.github.io](http://JustinChang126.github.io) 
+No.6, Ln. 33, Xianzheng 18th St., Zhubei City, Hsinchu County 302, Taiwan (R.O.C.)  |  +886-975-500969 | c24971720@gmail.com | [http://JustinChang126.github.io](http://JustinChang126.github.io) 
 
 ------
 
@@ -33,16 +33,22 @@ No.6, Ln. 33, Xianzheng 18th St., Zhubei City, Hsinchu County 302, Taiwan (R.O.C
     * Porting MIT patented image process SDK from Ubuntu to Windows. (C/C++)
     * Develop image process SDK and related Desktop on Windows. (C++, C++ .NET, C#)
 * PiVue:
-    * Realize WebGL based 360 degree image viewer / video player. (Javascript ES5, WebGL, THREE.js)
-    * Feature development in 360 degree image viewer / video player. 
+    * Realize WebGL based 360 degree image viewer / video player on desktop/mobile platform. (Javascript ES5, WebGL, THREE.js)
+    * Feature development in 360 degree image viewer / video player on desktop/mobile platform. 
 
-###### Specialist 2 | BU12 | Feb. 2017 - now
+###### Specialist 2 | BU12 | Feb. 2017 - Feb. 2019
 * LambdaVue:
     * Maintain image process SDK and related Desktop on Windows. (C++, C++ .NET, C#)
     * Traning new staff.
 * PiVue:
     * Feature development in embeded iframe 360 degree image viewer / video player across different platform (Javascript ES6, Python Django).
     * Cross platform desktop application. (Javascript ES6, Nodejs, Electron)
+
+###### Specialist 1 | BU12 | Feb. 2019 - Sep. 2020
+* QOCA-HOME:
+   * Web view on mobile device (JS, JQuery ES5)
+* QOCA-ECG:
+   * ECG sensor holter desktop (Electron, React, Redux)
 
 ------
 ### PAPERS
@@ -61,20 +67,15 @@ Institute of Electro-Optical Engineering | GP: 4.09/4.3 | Sep. 2012 - Nov. 2014
 2011 Presidential Award ( Rank: 1/48 )
 
 ------
-### REFERENCES
-* tseng-jing Chang | chts.ching@msa.hinet.net | Chunghwa Telecom, engineer
-* nathan Chen | Nathan.Chen@quantatw.com | Quanta Computer, specialist 1
-
-
-------
 ### PORTFOLIO
 * Improved edition of Quanta smart glass 1st and 2nd generation.
 * Quanta smart glass 3rd generation.
 * [Lambda Vue SDK2.0 on Windows.](https://lambda.qrilab.com/product/sdk/ )
 * [Lambda Vue Application on Windows.](https://lambda.qrilab.com/product/application/)
-* Pi360 web [image viewer / video player](https://embed.pi360.com/embed-loader)
-* Embeded iframe image viewer/ video player in [gallery](https://www.pi360.com/gallery360)
+* Pi360 web [image viewer / video player](https://embed.pi-solo.com/embed/?src=https://embed.pi-solo.com/static/upload/2017-08-17-10-43-21-146081-pi_solo_sample_1.jpg&type=i&btnCapture=0&gyroMap=1)  demo
+* Embedded iframe image viewer/ video player in [gallery](https://www.pi-solo.com/gallery360)
 * Other practice/tool projects can refer to [GitHub](https://github.com/Justin790126 )
+
 
 
 
