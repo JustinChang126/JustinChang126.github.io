@@ -1,6 +1,6 @@
 # Justin Chang
 ------
-No.6, Ln. 33, Xianzheng 18th St., Zhubei City, Hsinchu County 302, Taiwan (R.O.C.)  |  +886-975-500969 | c24971720@gmail.com | [http://JustinChang126.github.io](http://JustinChang126.github.io) 
+7F., No. 36, Hangzhou Rd., Zhongli Dist., Taoyuan City 320, Taiwan (R.O.C.) |  +886-975-500969 | c24971720@gmail.com | [http://JustinChang126.github.io](http://JustinChang126.github.io) 
 
 ------
 
