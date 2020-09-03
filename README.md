@@ -33,9 +33,8 @@
     * Porting MIT patented image process SDK from Ubuntu to Windows. (C/C++)
     * Develop image process SDK and related Desktop on Windows. (C++, C++ .NET, C#)
 * PiVue:
-    * Realize WebGL based 360 degree image viewer / video player on desktop/mobile platform. (Javascript ES5, WebGL, THREE.js)
-    * Feature development in 360 degree image viewer / video player on desktop/mobile platform. (Javascript ES6, Python Django).
-    * Cross platform(Windows, Ubuntu, MacOS) desktop application. (Javascript ES6, Nodejs, Electron)
+    * Realize WebGL based 360 degree image viewer / video player on desktop/mobile platform. (Javascript ES5~ES6, WebGL, THREE.js, Python Django)
+    * Cross platform(Windows, Ubuntu, MacOS) web desktop application. (Javascript ES6, Nodejs, Electron)
 
 ###### Specialist 1 | BU12 | Feb. 2019 - Sep. 2020
 * QOCA-HOME:
